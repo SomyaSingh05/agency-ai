@@ -1,12 +1,19 @@
-# React + Vite
+agency.ai - Creative Digital Agency Landing Page
+A high-performance, responsive landing page for a digital agency, built with React.js. This project features a clean "Dark Mode" aesthetic, smooth animations, and a professional layout designed to showcase services, portfolios, and team members.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
+Modern Hero Section: Engaging headline with a clear Call-to-Action (CTA) and "Trusted by" social proof badges.
 
-Currently, two official plugins are available:
+Service Grid: Interactive cards detailing agency offerings like Advertising, Content Marketing, Content Writing, and Social Media management.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Portfolio/Work Showcase: A visually driven section showcasing mobile app marketing, dashboard management, and fitness app promotions.
 
-## Expanding the ESLint configuration
+Team Section: A "Meet the Team" grid highlighting the experts behind the brand.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Contact Form: A functional "Reach out to us" section for lead generation.
+
+Newsletter Integration: Subscription footer for community building.
+
+Dark/Light Mode Toggle: Seamless theme switching for better user experience.
+
+Fully Responsive: Optimized for desktop, tablet, and mobile devices.
