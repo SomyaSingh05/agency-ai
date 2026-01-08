@@ -8,7 +8,5 @@ export default defineConfig({
     react(), 
     tailwindcss()
   ],
-
-  base: '/agency-ai/',
-  
+  base: "/agency-ai",
 })
